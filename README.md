@@ -9,3 +9,8 @@ This repository contains all of the notes taken by [Javin](https://github.com/h1
 [link text] https://github.com/h1tokiri/README.md
 
 taken by [Javin] https://github.com/h1tokiri for the aspirational coder
+
+# Table of Contents
+
+- [Week 1](/Week_1)
+  - [Day 1](/Week_1/Day_1)
